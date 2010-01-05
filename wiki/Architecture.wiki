@@ -7,7 +7,7 @@ The framework of the system must be flexible enough that it can essentially supp
   * travel
   * cycling
   * cricket
-  * any other distance sports
+  * any other distance sport
 
 
 = Details =
