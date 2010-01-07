@@ -1,0 +1,19 @@
+#summary Use Cases for the GeoEngine
+
+= Introduction =
+
+Add your content here.
+
+
+= Use Case List =
+
+*Front End*
+  * User can mark a point on a map.
+  * User can draw a line of two points on a map.
+  * User can draw a line of n points on a map.
+  * User can mark a polygon on a map of n points.
+
+*Back End*
+
+  * System can save a geometry.
+  * System can load a geometry.
