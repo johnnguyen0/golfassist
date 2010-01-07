@@ -12,7 +12,12 @@ The framework of the system must be flexible enough that it can essentially supp
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+== Technology Stack ==
+
+  * Front End
+  * Back End
+  * Database
+
+== Components ==
+
+  * GeoEngine
