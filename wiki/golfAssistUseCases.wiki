@@ -7,13 +7,7 @@ Add your content here.
 
 = Use Case List =
 
-  * User can see course layout
-  * User can see hole (for specific course) layout
-  * User can see green (for specific hole) layout
+*Front End*
 
-  * User can see course-level statistics
-  * User can see hole-level statistics
-  * User can see course score card
-  * User can record player statistics
-  * User can see player history/statistics
+*Back End*
   
