@@ -5,9 +5,15 @@
 Add your content here.
 
 
-= Details =
+= Use Case List =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * User can see course layout
+  * User can see hole (for specific course) layout
+  * User can see green (for specific hole) layout
+
+  * User can see course-level statistics
+  * User can see hole-level statistics
+  * User can see course score card
+  * User can record player statistics
+  * User can see player history/statistics
+  
