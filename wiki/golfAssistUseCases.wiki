@@ -10,4 +10,5 @@ Add your content here.
 *Front End*
 
 *Back End*
-  
+  * System can request GeoEngine to save geometries.
+  * System can request the retrieval of geometries from GeoEngine.
