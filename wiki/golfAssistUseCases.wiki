@@ -10,7 +10,7 @@ Add your content here.
 *Front End*
   * User can create a [golfAssistUseCasesCreateGolfCourse Golf Course]
   * User can create a [golfAssistUseCasesCreateHole Hole]
-  * User can create a [golfAssistUseCasesFindGolfCourse Find a Golf Course]
+  * User can [golfAssistUseCasesFindGolfCourse Find a Golf Course]
 
 *Back End*
   * System can request GeoEngine to save geometries.
