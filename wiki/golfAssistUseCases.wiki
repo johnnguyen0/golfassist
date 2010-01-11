@@ -11,6 +11,12 @@ Add your content here.
   * User can create a [golfAssistUseCasesCreateGolfCourse Golf Course]
   * User can create a [golfAssistUseCasesCreateHole Hole]
   * User can [golfAssistUseCasesFindGolfCourse Find a Golf Course]
+  * User can [golfAssistUserCasesFindHole Find a Golf Course Hole]
+  * User can mark ball positions on course/hole
+  * User can retrieve historical ball positions on course/hole
+  * User can see course score-card
+  * User can record players' scores
+  * User can retrieve historical score-cards
 
 *Back End*
   * System can request GeoEngine to save geometries.
